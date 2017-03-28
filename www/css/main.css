@@ -1,0 +1,30 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+html,
+body {
+  width: 100%;
+  height: 100%;
+}
+#appTest {
+  width: 100%;
+  height: 100%;
+}
+#appTest #box {
+  width: 96%;
+  margin-left: 2%;
+  margin-top: 5%;
+  height: 50%;
+  box-shadow: 0 0 2px #ccc;
+}
+#appTest #btn,
+#appTest #btn1,
+#appTest #btn2 {
+  width: 96%;
+  display: block;
+  height: 32px;
+  margin-left: 2%;
+  margin-top: 10px;
+}
+/*# sourceMappingURL=main.css.map */

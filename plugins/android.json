@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "cn.qianfeng.pgtest"
+        }
+    }
+}
